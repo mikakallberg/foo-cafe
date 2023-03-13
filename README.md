@@ -135,10 +135,7 @@ Please note that this documentation has multiple pages
     - Event name
 #
 ### Home Page
-- View most recent posts: As a user I can view all the most recent posts, ordered by most recently created first so that I am up to date with the newest content
-- As a user, I can search for posts with keywords, so that I can find the posts and user profiles I am most interested in.
-- View liked posts: As a logged in user I can view the posts I liked so that I can find the posts I enjoy the most
-- View posts of followed users: As a logged in user I can view content filtered by users I follow so that I can keep up to date with what they are posting about
+- Log in page
 - Infinite scroll: As a user I can keep scrolling through the images on the site, that are loaded for me automatically so that I don't have to click on "next page" etc
 #
 # Future Features
