@@ -1,4 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
 .logo {
     height: 75px;
     
+}
+
+.footer-top {
+    border-top: 1px solid #3b8c42;
 }
