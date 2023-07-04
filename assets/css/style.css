@@ -1,3 +1,4 @@
+/* Foundational settings*/
 *{
     margin: 0;
     padding: 0;
@@ -9,10 +10,24 @@ html, body{
     height: 100%;
 }
 
+.links {
+    color: black;
+}
+
+.social_media_links {
+    color: #3b8c42;
+}
+
+/* Header settings*/
+
 .logo {
     height: 75px;
     
 }
+
+/* Section settings*/
+
+/* Footer settings*/
 
 .footer-top {
     border-top: 1px solid #3b8c42;
@@ -30,4 +45,8 @@ html, body{
     height: 1px;
     border-bottom: 1px solid #3b8c42;
     margin-left: 10px;
+}
+
+.footer li{
+    list-style-type: none;
 }
