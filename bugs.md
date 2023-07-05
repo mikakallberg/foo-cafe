@@ -45,3 +45,10 @@ Please note that this documentation has multiple pages
     - [Followers](/testing.md#followers)
     - [Contacts](/testing.md#contacts)
 * [User Feautures](/README.md#user-feautures)
+
+# Bugs
+## Bugs in development
+- Files with sensitive information got pushed to GitHub.
+    - tried fixes found online, none worked. Deleted repo from GitHub.
+    - Set up new repo and followed this guide which worked: 
+       - [Adding a local repository to GitHub using Gits](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)

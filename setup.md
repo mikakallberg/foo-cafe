@@ -51,4 +51,11 @@ Please note that this documentation has multiple pages
 ## Initial Deployment
 - Since thos project has deployed website, first create a mockup of the base for that website that will be used around the log in page. 
 - Create virtual enviroment for Python via VS Code.
-- Download 
+- Download python3.10
+- Create a Google CLoud project
+- Create Google API enable Sheets API
+- Configure OAuth settings
+- Choose scopes
+- Create Credentials and add to project, add credential file to .gitignore-file
+- Install the Google client library for Python
+- Create quickstart.py and follow instructions to create token.json-file, add token.json-file to .gitignore-file
