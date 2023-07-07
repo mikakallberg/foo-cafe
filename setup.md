@@ -31,7 +31,7 @@ Please note that this documentation has multiple pages
 * [SetUp](/setup.md)
    - [Set up repository](/setup.md#set-up-repository)
    - [Set up project in VSCode](/setup.md#set-up-project-in-vscode)
-   - [Set up unique model in Gitpod](/setup.md#set-up-unique-model-in-gitpod)
+   - [ToDO]
    - [Initial Deployment](/setup.md#initial-deployment)
     - [Final Deployment](/setup.md#final-deployment)
 * [Technologies and Libraries](#technologies-and-libraries)
@@ -59,3 +59,6 @@ Please note that this documentation has multiple pages
 - Create Credentials and add to project, add credential file to .gitignore-file
 - Install the Google client library for Python
 - Create quickstart.py and follow instructions to create token.json-file, add token.json-file to .gitignore-file
+#
+## ToDo
+- Add https://www.googleapis.com/auth/spreadsheets to scopes in Google project
